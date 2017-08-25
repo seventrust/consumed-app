@@ -1,0 +1,16 @@
+{
+  "name": "consumed-app",
+  "description": "Un Servicio Que se conecta a la Api Valence de Brigthspace",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
